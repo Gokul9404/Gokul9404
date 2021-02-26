@@ -2,11 +2,11 @@
 
 [![HitCount](http://hits.dwyl.com/Gokul9404/Gokul9404.svg)](http://hits.dwyl.com/Gokul9404/Gokul9404)
 
-## I'm a Student, and Mid-level Python Programmer!
+## I'm a Student, and Basic-level Python Programmer!
 
 - 💬 I'm Science student and studying in 12th standard
-- 🌱 I’m currently learning Kivy and Java(basics)
-- 🥅 2020 Goals: To learn App development!
+- 🌱 Currently learing and understanding Pygame 
+- 🥅 2021 Goals: To learn Basic Game development!
 - ⚡ Fun fact: I love to make DIY Projects for Myself
 
 
