@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/Gokul9404/Gokul9404.svg)](http://hits.dwyl.com/Gokul9404/Gokul9404)
 
 ## Bit about me!!
-- 💬 First year College Student [persuing B.Tech. in CSE] 
+- 💬 Second year College Student [persuing B.Tech. in CSE] 
 - 🌱 Currently learing and understanding Pygame 
 - 🥅 2022 Goals: To learn Data structures and Algorithm!
 
