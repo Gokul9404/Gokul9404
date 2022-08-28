@@ -4,7 +4,6 @@
 
 ## Bit about me!!
 - 💬 Second year College Student [persuing B.Tech. in CSE] 
-- 🌱 Currently learing and understanding Pygame 
 - 🥅 2022 Goals: To learn Data structures and Algorithm!
 
 
