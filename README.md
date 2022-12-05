@@ -40,8 +40,9 @@
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 
 <br><br>
-
+<!--
 <p align="center">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=gokul9404&show_icons=true&theme=github_dark" alt="gokul" />
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul9404&layout=compact&theme=github_dark" alt="Gokul's top language stats" />
 </p>
+-->
