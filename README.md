@@ -19,11 +19,11 @@
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 💬 Second year College Student [persuing B.Tech. in CSE]
+- 💬 A Third year College Student [persuing B.Tech. in CSE]
 
-- 🥅 2022 Goals: To learn Data structures and Algorithm!
+- 🥅 2022 Goals: To learn Statistic used in Data Analytics!
 
-- 👨🏽‍💻 I’m getting familiar with Java Programming Language;
+- 👨🏽‍💻 I’m getting familiar OPENCV and it's various real-world implementations;
 
 <!-- - 🌱 I’m currently learning about **Data Structures and Algorithm** -->
 <br>
@@ -40,9 +40,9 @@
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 
 <br><br>
-<!--
+
 <p align="center">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=gokul9404&show_icons=true&theme=github_dark" alt="gokul" />
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul9404&layout=compact&theme=github_dark" alt="Gokul's top language stats" />
 </p>
--->
+
